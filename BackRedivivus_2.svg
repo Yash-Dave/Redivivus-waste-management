@@ -1,0 +1,111 @@
+<svg viewBox="0 0 1440 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+   <!-- width="1440" height="1024" -->
+<path d="M180 170.667H0V341.333H180V170.667Z" fill="#FF6242"/>
+<path d="M1440 682.667H1260V853.333H1440V682.667Z" fill="#E4E7EB"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1260 682.667L1440 853.333H1260V682.667Z" fill="#FFDC09"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M449.1 704.853C486.379 704.853 516.6 733.507 516.6 768.853C516.6 804.2 486.379 832.853 449.1 832.853C411.821 832.853 381.6 804.2 381.6 768.853C381.6 733.507 411.821 704.853 449.1 704.853Z" fill="#FFDC09"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M180 682.667H359.439L540 853.333H180V682.667Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M360 682.667L180 853.333H360V682.667Z" fill="#158467"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M269.1 730.453H270C292.368 730.453 310.5 747.646 310.5 768.853C310.5 790.061 292.368 807.253 270 807.253H269.1C246.732 807.253 228.6 790.061 228.6 768.853C228.6 747.646 246.732 730.453 269.1 730.453Z" fill="#065446"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1169.1 22.1867C1206.38 22.1867 1236.6 50.8405 1236.6 86.1867C1236.6 121.533 1206.38 150.187 1169.1 150.187C1131.82 150.187 1101.6 121.533 1101.6 86.1867C1101.6 50.8405 1131.82 22.1867 1169.1 22.1867Z" fill="#E4E7EB"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M900 0H1079.44L1260 170.667H900V0Z" fill="#158467"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1080 0L900 170.667H1080V0Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M989.1 47.7867H990C1012.37 47.7867 1030.5 64.9789 1030.5 86.1867C1030.5 107.394 1012.37 124.587 990 124.587H989.1C966.732 124.587 948.6 107.394 948.6 86.1867C948.6 64.9789 966.732 47.7867 989.1 47.7867Z" fill="#065446"/>
+<path d="M720 682.667H540V1024H720V682.667Z" fill="#158467"/>
+<path d="M720 768H630V853.547H720V768Z" fill="#197163"/>
+<path d="M630 853.333H540V938.88H630V853.333Z" fill="#065446"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1440 170.667V341.333H1260V170.667L1440 170.667Z" fill="#197163"/>
+<path d="M1350 341.333V256L1260 256V341.333H1350Z" fill="#FF6242"/>
+<path d="M180 682.667H0V853.333H180V682.667Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M90 710.827L128.76 724.203L149.384 758.072L142.221 796.587L110.624 821.725H69.3762L37.7787 796.587L30.6161 758.072L51.2399 724.203L90 710.827Z" fill="#FFDC09"/>
+<path d="M1440 853.333H1260V1024H1440V853.333Z" fill="#065446"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1350 881.493L1388.76 894.869L1409.38 928.739L1402.22 967.253L1370.62 992.392H1329.38L1297.78 967.253L1290.62 928.739L1311.24 894.869L1350 881.493Z" fill="#158467"/>
+<path d="M900 0H720V170.667H900V0Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M810 28.16L848.76 41.536L869.384 75.4053L862.221 113.92L830.624 139.059H789.376L757.779 113.92L750.616 75.4053L771.24 41.536L810 28.16Z" fill="#065446"/>
+<path d="M720 682.667V853.333H900V682.667H720Z" fill="#197163"/>
+<path d="M720 768V853.333H900V768H720Z" fill="#FF6242"/>
+<path d="M720 0H540V170.667H720V0Z" fill="#FFDC09"/>
+<path d="M1080 682.667H900V853.333H1080V682.667Z" fill="#FFDC09"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1080 682.667L900 853.333H1080V682.667Z" fill="#E4E7EB"/>
+<path d="M540 341.333H360V512H540V341.333Z" fill="#197163"/>
+<path d="M450.9 341.333H360V512H450.9V341.333Z" fill="#FF6242"/>
+<path d="M540 853.333H360V1024H540V853.333Z" fill="#FFDC09"/>
+<path d="M1080 341.333H900V512H1080V341.333Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M945 426.667C969.853 426.667 990 445.769 990 469.333C990 492.898 969.853 512 945 512C920.147 512 900 492.898 900 469.333C900 445.769 920.147 426.667 945 426.667Z" fill="#FF6242"/>
+<path d="M1080 341.333H990V426.667H1080V341.333Z" fill="#158467"/>
+<path d="M900 512H720V682.667H900V512Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M810 558.933C832.368 558.933 850.5 576.126 850.5 597.333C850.5 618.541 832.368 635.733 810 635.733C787.632 635.733 769.5 618.541 769.5 597.333C769.5 576.126 787.632 558.933 810 558.933Z" fill="#E4E7EB"/>
+<path d="M1080 512H900V682.667H1080V512Z" fill="#158467"/>
+<path d="M1053 537.6H927V657.067H1053V537.6Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M990 597.333L900 512H990V597.333Z" fill="#065446"/>
+<path d="M0 341.333L0 512H180V341.333H0Z" fill="#158467"/>
+<path d="M27 366.933L27 486.4H153V366.933H27Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M90 426.667L2.38419e-06 512V426.667H90Z" fill="#065446"/>
+<path d="M540 170.667V0L360 0V170.667L540 170.667Z" fill="#158467"/>
+<path d="M513 145.067V25.6L387 25.6V145.067L513 145.067Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M450 85.3333L540 8.10623e-06V85.3333L450 85.3333Z" fill="#065446"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1260 512V682.667H1080V512L1260 512Z" fill="#197163"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1080 682.667L1260 512V682.667H1080Z" fill="#FF6242"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1237.5 599.04C1237.5 634.386 1207.28 663.04 1170 663.04C1132.72 663.04 1102.5 634.386 1102.5 599.04C1102.5 563.694 1132.72 535.04 1170 535.04C1207.28 535.04 1237.5 563.694 1237.5 599.04Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 512H180V682.667H0V512Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M180 512L4.76837e-06 682.667H180V512Z" fill="#E4E7EB"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M180 341.333L360 512H180V341.333Z" fill="#065446"/>
+<path d="M360 341.333H270V426.667H360V341.333Z" fill="#158467"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M360 170.667L540 341.333H360V170.667Z" fill="#065446"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M180 512L360 682.667H180V512Z" fill="#FF6242"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M900 512L720 341.333H900V512Z" fill="#FFDC09"/>
+<path d="M810 426.667H720V512H810V426.667Z" fill="#158467"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M900 426.667L810 341.333H900V426.667Z" fill="#E4E7EB"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M360 1.52588e-05L180 170.667V1.52588e-05L360 1.52588e-05Z" fill="#FFDC09"/>
+<path d="M270 85.3334V170.667H360V85.3334H270Z" fill="#E4E7EB"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M270 1.52588e-05L180 85.3334V1.52588e-05L270 1.52588e-05Z" fill="#E4E7EB"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1440 512L1260 682.667V512H1440Z" fill="#FFDC09"/>
+<path d="M1350 597.333V682.667H1440V597.333H1350Z" fill="#158467"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1350 512L1260 597.333V512H1350Z" fill="#E4E7EB"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M720 341.333L540 512H720V341.333Z" fill="#E4E7EB"/>
+<path d="M630 341.333H540V426.667H630V341.333Z" fill="#FFDC09"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1260 853.333L1080 1024H1260V853.333Z" fill="#FFDC09"/>
+<path d="M1170 853.333H1080V938.667H1170V853.333Z" fill="#065446"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1260 853.333L1080 682.667H1260V853.333Z" fill="#197163"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M180 170.667L4.76837e-06 1.62125e-05H180V170.667Z" fill="#197163"/>
+<path d="M540 682.667H720V512H540V682.667Z" fill="#197163"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M630.45 627.479L568.8 512H692.1L630.45 627.479Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M675 588.42L630 512H720L675 588.42Z" fill="#FF6242"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M585 588.42L540 512H630L585 588.42Z" fill="#FF6242"/>
+<path d="M180 1024L180 853.333H0L0 1024H180Z" fill="#065446"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M121.5 938.24L3.21865e-06 996.693L3.21865e-06 879.787L121.5 938.24Z" fill="#158467"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M81 896L2.14577e-06 938.667L2.14577e-06 853.333L81 896Z" fill="#E4E7EB"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M81 980.48L2.14577e-06 1023.15L2.14577e-06 937.813L81 980.48Z" fill="#E4E7EB"/>
+<path d="M1260 1.52588e-05V170.667H1440V1.52588e-05H1260Z" fill="#065446"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1318.05 85.3348L1440.45 26.8815V143.788L1318.05 85.3348Z" fill="#158467"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1359 128L1440 85.3334V170.667L1359 128Z" fill="#E4E7EB"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1359 42.6667L1440 1.59581e-06V85.3333L1359 42.6667Z" fill="#E4E7EB"/>
+<path d="M180 341.333H360V170.667L180 170.667L180 341.333Z" fill="#E4E7EB"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M270.45 287.303L208.8 170.667H332.1L270.45 287.303Z" fill="#FFDC09"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M810 853.333L900 1024H720L810 853.333Z" fill="#FFDC09"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1170 341.333C1219.71 341.333 1260 379.538 1260 426.667C1260 473.795 1219.71 512 1170 512C1120.29 512 1080 473.795 1080 426.667C1080 379.538 1120.29 341.333 1170 341.333Z" fill="#E4E7EB"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1170 384C1194.85 384 1215 403.103 1215 426.667C1215 450.231 1194.85 469.333 1170 469.333C1145.15 469.333 1125 450.231 1125 426.667C1125 403.103 1145.15 384 1170 384Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M630 170.667C679.706 170.667 720 208.872 720 256C720 303.128 679.706 341.333 630 341.333C580.294 341.333 540 303.128 540 256C540 208.872 580.294 170.667 630 170.667Z" fill="#FF6242"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M630 213.333C654.853 213.333 675 232.436 675 256C675 279.564 654.853 298.667 630 298.667C605.147 298.667 585 279.564 585 256C585 232.436 605.147 213.333 630 213.333Z" fill="#197163"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M990 853.333C1039.71 853.333 1080 891.538 1080 938.667C1080 985.795 1039.71 1024 990 1024C940.294 1024 900 985.795 900 938.667C900 891.538 940.294 853.333 990 853.333Z" fill="#158467"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M990 170.667C1039.71 170.667 1080 208.872 1080 256C1080 303.128 1039.71 341.333 990 341.333C940.294 341.333 900 303.128 900 256C900 208.872 940.294 170.667 990 170.667Z" fill="#FFDC09"/>
+<path d="M1080 256H990V341.333H1080V256Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M270 853.333C319.706 853.333 360 891.538 360 938.667C360 985.795 319.706 1024 270 1024C220.294 1024 180 985.795 180 938.667C180 891.538 220.294 853.333 270 853.333Z" fill="#E4E7EB"/>
+<path d="M360 938.667H270V1024H360V938.667Z" fill="#197163"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M810 256L720 170.667H810V256Z" fill="#FF6242"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M810 256L900 341.333H810V256Z" fill="#FF6242"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M810 256L720 341.333V256H810Z" fill="#FF6242"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M810 256L900 170.667V256H810Z" fill="#FF6242"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1350 426.667L1260 341.333H1350V426.667Z" fill="#158467"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1350 426.667L1440 512H1350V426.667Z" fill="#158467"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1350 426.667L1260 512V426.667H1350Z" fill="#158467"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1350 426.667L1440 341.333V426.667H1350Z" fill="#158467"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M450 597.333L360 512H450V597.333Z" fill="#FFDC09"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M450 512L360 597.333V512H450Z" fill="#FFDC09"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M540 597.333L450 682.667V597.333H540Z" fill="#FFDC09"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M540 682.667L450 597.333H540V682.667Z" fill="#FFDC09"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1170 256L1080 170.667H1170V256Z" fill="#FFDC09"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1170 170.667L1080 256V170.667H1170Z" fill="#FFDC09"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1260 256L1170 341.333V256H1260Z" fill="#158467"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1260 341.333L1170 256H1260V341.333Z" fill="#158467"/>
+</svg>

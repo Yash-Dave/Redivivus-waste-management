@@ -1,0 +1,204 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', 'sans-serif';
+}
+
+.our-services {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #065446;
+background-image: url("BackRedivivus_4.svg");
+background-attachment: fixed;
+background-repeat:repeat;
+-webkit-background-size:cover;
+-moz-background-size:cover;
+-o-background-size:cover;
+background-size:cover;
+background-position:center;
+  /* background: #065446; */
+  /* margin-top: 3.3%; */
+}
+.our-services:before{
+  content:"Our Services";
+  width: 100%;
+  font-weight: 700;
+  font-size: 4rem;
+  color: #fadcac;
+  opacity: 1;
+  position: absolute;
+  top: 0;
+  left: 0;
+  text-align: center;
+  margin-top: 6%;
+}
+
+.container1 {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  position: relative;
+  margin: 10%;
+}
+
+.container1 .card1 {
+  position: relative;
+  display: flex;
+  height: 250px;
+  width: 25%;
+  background: #fadcac;
+  box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.3), -30px -30px 20px rgba(0, 0, 0, 0.3);
+}
+
+.container1 .card1 .image1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1;
+  background: #fadcac;
+  overflow: hidden;
+  transition: 0.5s ease-in-out;
+}
+
+.container1 .card1:hover .image1 {
+  width: 50%;
+  height: 50%;
+  left: -75px;
+  top: 25%;
+  transition: 0.5s ease-in-out;
+  background: #158467;
+}
+
+.container1 .card1 .image1:before {
+  content: attr(data-text);
+  width: 100%;
+  font-weight: 700;
+  font-size: 4rem;
+  color: #065446;
+  opacity: 0.5;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+}
+
+.container1 .card1:hover .image1:before {
+  display: none;
+}
+
+.container1 .card1 .image1 img {
+  max-width: 100px;
+  transition: 0.5s ease-in-out;
+}
+
+.container1 .card1:hover .image1 img {
+  max-width: 75px;
+}
+
+.container1 .card1 .content {
+  position: absolute;
+  right: 0;
+  width: 60%;
+  height: 100%;
+  /* display: flex; */
+  justify-content: center;
+  align-items: center;
+}
+
+.container1 .card1 .content h3 {
+  margin-bottom: 10%;
+  margin-top: 10%;
+  font-size: 1.5rem;
+  display: block;
+}
+
+.container1 .card1 .content .know-more-con {
+  width: 80%;
+  text-align: center;
+  background: #fadcac;
+  border: 0.125rem solid black;
+  border-radius: 0.5rem;
+}
+
+.container1 .card1 .content .know-more-con:hover {
+  background: #065446;
+}
+
+.container1 .card1 .content .know-more-con a {
+  text-decoration: none;
+  color: #065446;
+  font-size: 0.8rem;
+}
+
+.container1 .card1 .content .know-more-con:hover a {
+  text-decoration: none;
+  color: #fadcac;
+}
+
+@media (max-width: 992px) {
+  .container1 {
+    width: 100%;
+    margin-top: 16%;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .container1 .card1 {
+    width: 400px;
+    margin: 20px;
+  }
+}
+
+@media (max-width: 768px) {
+  .our-services {
+    margin: 0;
+  }
+
+  .container1 .card1 {
+    max-width: 300px;
+    margin: 20px;
+    flex-direction: column;
+    height: auto;
+  }
+
+  .container1 .card1 .image1 {
+    position: relative;
+  }
+
+  .container1 .card1 .image1, .container1 .card1:hover .image1 {
+    width: 100%;
+    height: 200px;
+    left: 0;
+  }
+
+  .container1 .card1 .image1 img, .container1 .card1:hover .image1 img {
+    max-width: 100px;
+  }
+
+  .container1 .card1 .content {
+    position: relative;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+  }
+  .container1 .card1 .content .know-more-con{
+    margin: auto auto 2% auto;
+  }
+
+  .container1 .card1 .image1:before {
+    content: attr(data-text);
+    /* display: none; */
+    font-size: 2rem;
+  }
+}

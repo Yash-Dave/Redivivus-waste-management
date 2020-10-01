@@ -1,0 +1,19 @@
+<svg  viewBox="0 0 1500 1018" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- width="1500" height="1018" -->
+<g id="MacBook Pro - 1" clip-path="url(#clip0)">
+<rect width="1500" height="1000" transform="translate(0 15)" fill="#FADCAC"/>
+<line id="Line 1" x1="825.211" y1="-33.7314" x2="321.211" y2="1076.27" stroke="#197163" stroke-opacity="0.24" stroke-width="40"/>
+<path id="Rectangle 1" d="M925.802 -236L1988 145.5L1386.23 1496.61L357 1036.57L925.802 -236Z" fill="#065446"/>
+<line id="Line 3" x1="709.955" y1="-5.90528" x2="226.123" y2="1072.09" stroke="#158467" stroke-width="20"/>
+<line id="Line 4" x1="1324.4" y1="11.3309" x2="1526.4" y2="198.331" stroke="white" stroke-width="10"/>
+<line id="Line 5" x1="1268.44" y1="11.3731" x2="1503.44" y2="234.373" stroke="#FADCAC" stroke-width="10"/>
+<path id="Line 7" d="M-119.5 742.5L243.5 1018.5" stroke="#158467" stroke-width="20"/>
+<line id="Line 8" x1="-48.9619" y1="757.029" x2="283.038" y2="1011.03" stroke="white" stroke-width="10"/>
+</g>
+<path id="Line 2" d="M725 2L283.841 1015.37" stroke="white" stroke-width="10"/>
+<defs>
+<clipPath id="clip0">
+<rect width="1500" height="1000" fill="white" transform="translate(0 15)"/>
+</clipPath>
+</defs>
+</svg>

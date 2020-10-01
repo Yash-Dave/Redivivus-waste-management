@@ -1,0 +1,110 @@
+* {
+    box-sizing: border-box;
+  }
+
+  body{
+    margin: 0%;
+    padding: 0%;
+  }
+
+  .footer{
+    position:relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #158467;
+    background-size: 30px 30px;
+    overflow: hidden;
+    background-image: url("BackRedivivus_4.svg");
+    background-attachment: fixed;
+    background-repeat:repeat;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    background-position:center;
+    /* color: #FADCAC; */
+  }
+  .fslide{
+    position: absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    z-index: -1;
+  }
+  .fslide.fslide1{
+      overflow-x: hidden;
+    background:url(Backredivivus_4.svg);
+    background-attachment: fixed;
+    background-repeat:no-repeat;
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
+  background-size:cover;
+  background-position:center;
+  background-color: #E4E7EB;
+  }
+  .fslide.fslide2{
+      overflow-x: hidden;
+    background:url(Backredivivus_4.svg);
+    background-attachment: fixed;
+    background-repeat:no-repeat;
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
+  background-size:cover;
+  background-position:center;
+  background-color: #000;
+  }
+  .our{
+    display: block;
+    font-size: 40px;
+    text-align: center;
+  }
+  .copyrights{
+  margin-top:2%;
+  display:block;
+  text-align: center;
+}
+  .meetdev{
+    display: flex;
+    margin:auto;
+    justify-content: center;
+    text-align:center;
+    margin-top: 2%;
+    flex-wrap: wrap;
+  }
+.ds{
+  max-width: 120px;
+}
+  #ds{
+    height: auto;
+    max-width: 120px;
+  /* visibility: hidden; */
+  }
+
+
+  #rm{
+    height: auto;
+    max-width: 120px;
+    /* visibility: hidden; */
+  }
+
+
+  #vh{
+    height: auto;
+    max-width: 120px;
+    /* visibility: hidden; */
+  }
+
+
+  #yrd{
+    height: auto;
+    max-width: 120px;
+    /* visibility: hidden; */
+  }
+  .meetdev a{
+    text-decoration:none;
+    color:#FADCAC;
+  }
