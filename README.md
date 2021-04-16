@@ -17,7 +17,7 @@ The products are mentioned on the site
   - Css
   - JavaScript
  
-- Deployment:  [Personal site](yash-dave.github.io/personal-site)
+- Deployment:  [Redivivus](https://yash-dave.github.io/Redivivus/)
 
 - About Me
   - 🌱 I’m currently learning M.E.R.N Stack 
